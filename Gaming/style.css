@@ -1,0 +1,35 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: linear-gradient(to right, #ffb6c1, #ff69b4);
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #ff4da6;
+    padding: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  footer {
+    background-color: #d63384;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
